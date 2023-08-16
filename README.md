@@ -1,1 +1,1 @@
-# VowelCounter
+Design and implement an application that reads a string from the user and then determines and prints how many of each lowercase vowel (a,e,i,o, and u) appear in the entire string. Have a separate counter for each vowel. Also count and print the number of nonvowel characters.
